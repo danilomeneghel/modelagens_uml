@@ -12,10 +12,8 @@ O objetivo aqui é somente mostrar os principais Diagramas UML realizado em algu
 ## Diagramas
 Abaixo estão alguns diagramas criados:
 
-- Diagrama de Caso de Uso
-<img src="Portal de Notícias/diagrama_caso_de_uso.jpg">
-- Diagrama de Classes
-<img src="Portal de Notícias/diagrama_classes.jpg">
+- Diagrama de Caso de Uso <img src="Portal de Notícias/diagrama_caso_de_uso.jpg">
+- Diagrama de Classes <img src="Portal de Notícias/diagrama_classes.jpg">
 - Diagrama de Domínio
 - Diagrama de Robustez
 - Diagramas de Atividades
